@@ -9,3 +9,5 @@
 
 4. Зарегистрируйтесь на сервисе <a href="https://github.com/">https://github.com/</a> и перейдя на <a href="https://github.com/freepy1991/pycourse/issues">форум</a>  создайте сообщение на форуме чтобы убедится что у вас все получилось с помощью ссылки "new issue"
 <img src="newissue.png">
+
+5. Если возникли вопросы или проблемы при выполнении какого-то из пунктов - пишите на почту xtfkpi@gmail.com
