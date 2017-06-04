@@ -1,4 +1,12 @@
-Для занятий Вам необходимо:
+Для 2-ого занятия занятия Вам необходимо:
+
+1. Установить python 3 - https://www.python.org/downloads/windows/
+
+2. Установить PyCharm Edu https://www.jetbrains.com/pycharm-edu/
+
+3. Установить git https://git-scm.com/download/win
+
+Для 1-ого занятия Вам необходимо:
 
 1. Зарегистрировать учетную запись на платформе <a href="http://stepik.org">http://stepik.org</a>
 
