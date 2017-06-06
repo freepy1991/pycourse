@@ -6,6 +6,8 @@
 
 3. Установить git https://git-scm.com/download/win
 
+- в дополнении к основному курсу можно начинать проходить курс по html -  https://htmlacademy.ru/
+
 Для 1-ого занятия Вам необходимо:
 
 1. Зарегистрировать учетную запись на платформе <a href="http://stepik.org">http://stepik.org</a>
